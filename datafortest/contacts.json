@@ -1,0 +1,22 @@
+[
+  {"id":"8f2d-4b1a", "name":"Олена Ковальчук", "phone":"+380501234567", "email":"kovalchuk.o@mail.com", "photo":""},
+  {"id":"a1b2-c3d4", "name":"Андрій Шевченко", "phone":"+380679876543", "email":"sheva.andriy@ukr.net", "photo":""},
+  {"id":"e5f6-g7h8", "name":"Марія Бондаренко", "phone":"+380931112233", "email":"mary.bond@gmail.com", "photo":""},
+  {"id":"i9j0-k1l2", "name":"Дмитро Кравченко", "phone":"+380504445566", "email":"d.kravchenko@meta.ua", "photo":""},
+  {"id":"m3n4-o5p6", "name":"Тетяна Марченко", "phone":"+380667778899", "email":"tanya.m@outlook.com", "photo":""},
+  {"id":"q7r8-s9t0", "name":"Олександр Ткаченко", "phone":"+380975556677", "email":"tkach.sasha@i.ua", "photo":""},
+  {"id":"u1v2-w3x4", "name":"Наталія Савченко", "phone":"+380631231212", "email":"n.savchenko@ukr.net", "photo":""},
+  {"id":"y5z6-a7b8", "name":"Сергій Лисенко", "phone":"+380509990011", "email":"lysenko.s@work.ua", "photo":""},
+  {"id":"c9d0-e1f2", "name":"Юлія Павленко", "phone":"+380672223344", "email":"pavlenko.y@gmail.com", "photo":""},
+  {"id":"g3h4-i5j6", "name":"Максим Мороз", "phone":"+380935554433", "email":"m.moroz@mail.ua", "photo":""},
+  {"id":"k7l8-m9n0", "name":"Ірина Поліщук", "phone":"+380507771122", "email":"ira.poly@ukr.net", "photo":""},
+  {"id":"o1p2-q3r4", "name":"Віктор Олійник", "phone":"+380660001122", "email":"victor.ol@meta.ua", "photo":""},
+  {"id":"s5t6-u7v8", "name":"Олена Котенко", "phone":"+380971110099", "email":"kotenko.o@i.ua", "photo":""},
+  {"id":"w9x0-y1z2", "name":"Ігор Сидоренко", "phone":"+380638887766", "email":"igor.sid@gmail.com", "photo":""},
+  {"id":"a3b4-c5d6", "name":"Анна Мельник", "phone":"+380502223355", "email":"a.melnik@outlook.com", "photo":""},
+  {"id":"e7f8-g9h0", "name":"Василь Петренко", "phone":"+380674443322", "email":"petrenko.v@ukr.net", "photo":""},
+  {"id":"i1j2-k3l4", "name":"Світлана Козак", "phone":"+380936665544", "email":"kozak.s@meta.ua", "photo":""},
+  {"id":"m5n6-o7p8", "name":"Роман Гончар", "phone":"+380501112299", "email":"gonchar.r@i.ua", "photo":""},
+  {"id":"q9r0-s1t2", "name":"Катерина Руденко", "phone":"+380663332211", "email":"katya.rud@ukr.net", "photo":""},
+  {"id":"u3v4-w5x6", "name":"Богдан Данилюк", "phone":"+380978889900", "email":"danilyuk.b@gmail.com", "photo":""}
+]

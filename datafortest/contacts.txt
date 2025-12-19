@@ -1,0 +1,21 @@
+Header;Skip;ThisLine
+Олена Ковальчук;+380501234567;kovalchuk.o@mail.com
+Андрій Шевченко;+380679876543;sheva.andriy@ukr.net
+Марія Бондаренко;+380931112233;mary.bond@gmail.com
+Дмитро Кравченко;+380504445566;d.kravchenko@meta.ua
+Тетяна Марченко;+380667778899;tanya.m@outlook.com
+Олександр Ткаченко;+380975556677;tkach.sasha@i.ua
+Наталія Савченко;+380631231212;n.savchenko@ukr.net
+Сергій Лисенко;+380509990011;lysenko.s@work.ua
+Юлія Павленко;+380672223344;pavlenko.y@gmail.com
+Максим Мороз;+380935554433;m.moroz@mail.ua
+Ірина Поліщук;+380507771122;ira.poly@ukr.net
+Віктор Олійник;+380660001122;victor.ol@meta.ua
+Олена Котенко;+380971110099;kotenko.o@i.ua
+Ігор Сидоренко;+380638887766;igor.sid@gmail.com
+Анна Мельник;+380502223355;a.melnik@outlook.com
+Василь Петренко;+380674443322;petrenko.v@ukr.net
+Світлана Козак;+380936665544;kozak.s@meta.ua
+Роман Гончар;+380501112299;gonchar.r@i.ua
+Катерина Руденко;+380663332211;katya.rud@ukr.net
+Богдан Данилюк;+380978889900;danilyuk.b@gmail.com
