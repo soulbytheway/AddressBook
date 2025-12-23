@@ -30,7 +30,7 @@ GUI-застосунок на **C++ / Qt 6** для керування базо�
 5. Натиснути **Run**
 
 ### Через командний рядок
-```bash
+
 mkdir build
 cd build
 cmake .. -G "MinGW Makefiles"
@@ -40,7 +40,7 @@ AddressBook.exe
 ## Запуск на Linux (Ubuntu / Debian)
 
 ### Встановлення залежностей
-```bash
+
 sudo apt update
 sudo apt install build-essential cmake qt6-base-dev qt6-base-dev-tools
 
